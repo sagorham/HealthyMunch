@@ -11,4 +11,4 @@ Controls: Use the arrow keys
 •	Left Arrow: move left
 •	Right Arrow: move right
 •	Down Arrow: move down
-•	Up Arrow: move up
+•	Up Arrow: move Up
