@@ -1,0 +1,14 @@
+Healthy Munch Instructions
+Welcome to Healthy Munch!
+1.	Use Wormy to collect the different foods that spawn on the map.
+2.	Look over the food pyramid to the right to see which type of food earn more points.
+3.	Wormy will only have 60 seconds to collect the food that spawns.
+4.	At the end of the 60 seconds, you will put the food that Wormy collected onto the food pyramid
+5.	If wormy collects at least one food from each category of the food pyramid, and they are placed in the correct category in the food pyramid, then your score will be multiplied.
+6.	Enter your name in the box and press start to begin. Also, don’t forget to have fun!
+
+Controls: Use the arrow keys
+•	Left Arrow: move left
+•	Right Arrow: move right
+•	Down Arrow: move down
+•	Up Arrow: move Up
