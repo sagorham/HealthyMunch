@@ -5,5 +5,7 @@ Fruits: These foods give us natural sugars, fiber, and vitamins.  Some of these 
 Milk/Dairy: These foods are made from the milk produces from mammals.  Dairy gives our body’s calcium, protein, and Vitamins A and D.  Some of these foods are yogurt, cheese, and milk. 
 Meat and Beans: These foods are normally the muscles of an animal that we eat.  Meat gives the body protein, iron, zinc, and Vitamin B12.  Some of these foods include: Fish, chicken, and eggs.  
 Fats/Oils and Sweets:  These foods are in the smallest category of the food pyramid because they should only be a small part of what you eat.  These foods provide calories, but are not very nutritious.  Some of these foods are butter, candy, and pop. 
+
+
 Source: 
 https://en.wikipedia.org/wiki/Food_pyramid_(nutrition)
