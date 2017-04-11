@@ -1,0 +1,19 @@
+Welcome to HealthyMatching!
+Instructions:
+1. In each level, A HealthyMatching game board will appear to represent a different food group on the food pyramid. 
+
+2. Click two squares at a time to match the same foods together to make a Food Group Pair 
+(ex: Banana and Banana OR Carrot and Carrot)
+
+3. 1 Food Group Pair = 1 Serving Size
+
+4. There are also other pairs that can be matched on the board that are also correct, but they will not earn you a serving size for that level
+(Ex: Apple and Fruit will not earn you a serving size for the Dairy Level)
+
+4. Once you gather enough serving sizes for that level, the timer will stop and you can advance to the next level. You are allowed to continue matching pairs to complete the HealthyMatching board if you collect your serving sizes early.
+
+5. You will have 60 seconds per level. If you run out of time, the game is over and you will have the option to restart. 
+
+6. Don't forget to have fun and learn!
+
+7. Enter your name and click start to begin
